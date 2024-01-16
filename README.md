@@ -1,5 +1,5 @@
-# STOCK-PRICE
- # Simple Stock Price App
+# STOCK-PRICE 
+ # Simple Stock Price
 
 This repository contains a beginner-friendly data science project that creates a simple stock price app using Python, Streamlit, and the Yahoo Finance API (yfinance). The app displays the closing price and volume of Google's stock (ticker symbol: GOOGL) over a specified period.
 
